@@ -1,1 +1,1 @@
-[text](https://heise.de)
+[heise.de](https://heise.de)
